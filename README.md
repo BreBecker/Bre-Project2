@@ -7,6 +7,8 @@ File Explanations:
 
 Project2 (1).html is the first draft of my project 2 in html format.
 
+Project2 (4).html is the final draft of my project 2 in html format.
+
 Project2.ipynb is the first draft of my project 2 in ipynb format.
 
 ALIGN.fasta is a fasta file containing the FTO nucleotide sequences for all 5 organisms. I used this to create a multiple sequence alignment and to create my sequence logo. This was obtained from UniProt. The UniProt Sequence ID's are as follows: 
